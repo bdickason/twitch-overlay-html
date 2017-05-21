@@ -1,0 +1,40 @@
+{
+  "name": "twitch-overlay-video",
+  "version": "0.0.1",
+  "description": "Video Overlay for Twitch - Displays a short video clip on your stream",
+  "keywords": [
+    "twitch",
+    "overlay",
+    "video",
+    "youtube"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "./node_modules/.bin/gulp test"
+  },
+  "engines": {
+    "node": ">=4.4.0"
+  },
+  "author": "bdickason",
+  "contributors": [
+    {
+      "name": "bdickason",
+      "email": "dickason@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bdickason/twitch-overlay-video.git"
+  },
+  "dependencies": {
+  },
+  "license":"GPL-3.0",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon": "*",
+    "gulp": "*",
+    "gulp-mocha": "*"
+  }
+}

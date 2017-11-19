@@ -1,12 +1,12 @@
 {
-  "name": "twitch-overlay-video",
-  "version": "0.0.8",
-  "description": "Video Overlay for Twitch - Displays a short video clip on your stream",
+  "name": "twitch-overlay-html",
+  "version": "0.0.1",
+  "description": "Html Overlay for Twitch - Displays html and javascript overlays on your stream",
   "keywords": [
     "twitch",
     "overlay",
-    "video",
-    "youtube"
+    "html",
+    "javascript"
   ],
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bdickason/twitch-overlay-video.git"
+    "url": "git://github.com/bdickason/twitch-overlay-html.git"
   },
   "dependencies": {
   },

@@ -1,3 +1,3 @@
-/* twitch-overlay-video - Video Overlay for Twitch - Displays a short video clip on your stream */
+/* twitch-overlay-html - Html Overlay for Twitch - Displays html and javascript on your stream */
 
-module.exports = require('./lib/video.js');
+module.exports = require('./lib/html.js');

@@ -1,6 +1,6 @@
 {
   "name": "twitch-overlay-html",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Html Overlay for Twitch - Displays html and javascript overlays on your stream",
   "keywords": [
     "twitch",
